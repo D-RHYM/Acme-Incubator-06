@@ -1,0 +1,10 @@
+authenticated.entrepreneur.form.label.name = Nombre	
+authenticated.entrepreneur.form.label.sector = Sector
+authenticated.entrepreneur.form.label.qualificationRecord = Cualidades
+authenticated.entrepreneur.form.label.skillsRecord = Habilidades
+
+authenticated.entrepreneur.form.button.create = Crear
+authenticated.entrepreneur.form.button.update = Actualizar
+authenticated.entrepreneur.form.button.return = Volver
+
+authenticated.entrepreneur.error.sector = El valor debe ser Software, Tech, Computers o Health

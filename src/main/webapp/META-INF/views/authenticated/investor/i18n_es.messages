@@ -1,0 +1,9 @@
+authenticated.investor.form.label.name = Nombre	
+authenticated.investor.form.label.sector = Sector
+authenticated.investor.form.label.profile = Perfil
+
+authenticated.investor.form.button.create = Crear
+authenticated.investor.form.button.update = Actualizar
+authenticated.investor.form.button.return = Volver
+
+authenticated.investor.error.sector = El valor debe ser Software, Tech, Computers o Health

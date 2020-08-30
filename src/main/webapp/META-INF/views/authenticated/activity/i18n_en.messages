@@ -1,0 +1,9 @@
+authenticated.activity.list.label.title = Title
+authenticated.activity.list.label.budget = Budget
+
+authenticated.activity.form.label.title = Title
+authenticated.activity.form.label.moment = Moment
+authenticated.activity.form.label.deadline = Deadline
+authenticated.activity.form.label.budget = Budget
+
+authenticated.activity.form.button.return = Return

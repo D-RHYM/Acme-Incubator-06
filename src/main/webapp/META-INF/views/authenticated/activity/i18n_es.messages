@@ -1,0 +1,9 @@
+authenticated.activity.list.label.title = Titulo
+authenticated.activity.list.label.budget = Presupuesto
+
+authenticated.activity.form.label.title = Titulo
+authenticated.activity.form.label.moment = Momento
+authenticated.activity.form.label.deadline = Fecha limite
+authenticated.activity.form.label.budget = Presupuesto
+
+authenticated.activity.form.button.return = Volver

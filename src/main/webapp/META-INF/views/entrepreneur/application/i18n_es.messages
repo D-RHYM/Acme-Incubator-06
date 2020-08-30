@@ -1,0 +1,19 @@
+entrepreneur.application.form.label.ticker = Ticker
+entrepreneur.application.form.label.moment = Momento
+entrepreneur.application.form.label.statement = Estado
+entrepreneur.application.form.label.moneyOffer = Dinero
+entrepreneur.application.form.label.status = Estado
+
+entrepreneur.application.form.label.status.pending = Pendiente
+entrepreneur.application.form.label.status.accepted = Aceptado
+entrepreneur.application.form.label.status.rejected = Rechazado
+
+entrepreneur.application.form.label.rejectionJustification = Justificacion
+entrepreneur.application.form.error.rejectionJustification = El rechazo ha de estar justificado
+entrepreneur.application.form.button.update = Actualizar estado
+
+entrepreneur.application.list.label.ticker = Ticker
+entrepreneur.application.list.label.moment = Momento
+entrepreneur.application.list.label.status = Estado
+
+entrepreneur.investmentRound.form.button.return = Volver

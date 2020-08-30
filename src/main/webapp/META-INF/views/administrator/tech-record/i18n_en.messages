@@ -1,0 +1,17 @@
+administrator.techRecords.form.label.title = Title:
+administrator.techRecords.form.label.activitySector = Activity Sector:
+administrator.techRecords.form.label.inventorName = Inventor Name:
+administrator.techRecords.form.label.description = Description:
+administrator.techRecords.form.label.webSite = Web Site:
+administrator.techRecords.form.label.email = Email:
+administrator.techRecords.form.label.stars = Stars:
+administrator.techRecord.form.label.open = Mark if it's open-source (if it's close, don't mark)
+
+administrator.techRecord.form.button.create = Create
+administrator.techRecord.form.button.update = Update
+administrator.techRecord.form.button.delete = Delete
+administrator.techRecords.form.button.return = Return
+
+administrator.techRecords.list.label.title = Title
+administrator.techRecords.list.label.activitySector = Activity Sector
+administrator.techRecords.list.label.stars = Stars

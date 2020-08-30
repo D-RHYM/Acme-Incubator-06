@@ -1,0 +1,8 @@
+authenticated.accounting-record.form.label.title = Titulo
+authenticated.accounting-record.form.label.creationMoment = Fecha creacion
+authenticated.accounting-record.form.label.body = Cuerpo
+
+authenticated.accounting-record.form.button.return = Volver
+
+authenticated.accounting-record.list.label.title = Titulo
+authenticated.accounting-record.list.label.creationMoment = Fecha creacion

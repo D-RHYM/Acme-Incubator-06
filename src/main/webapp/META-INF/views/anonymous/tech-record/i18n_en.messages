@@ -1,0 +1,13 @@
+anonymous.techRecord.form.label.title = Title:
+anonymous.techRecord.form.label.activitySector = Activity Sector:
+anonymous.techRecord.form.label.inventorName = Inventor Name:
+anonymous.techRecord.form.label.description = Description:
+anonymous.techRecord.form.label.webSite = Web Site:
+anonymous.techRecord.form.label.email = Email:
+anonymous.techRecord.form.label.stars = Stars:
+anonymous.techRecord.form.label.open = Mark if it's open-source (if it's close, don't mark)
+anonymous.techRecord.form.button.return = Return
+
+anonymous.techRecord.list.label.title = Title
+anonymous.techRecord.list.label.activitySector = Activity Sector
+anonymous.techRecord.list.label.stars = Stars

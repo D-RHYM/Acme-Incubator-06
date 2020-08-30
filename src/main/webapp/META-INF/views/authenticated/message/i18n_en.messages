@@ -1,0 +1,16 @@
+authenticated.message.form.label.title = Title
+authenticated.message.form.label.moment = Moment
+authenticated.message.form.label.creator = Created by
+authenticated.message.form.label.body = Body
+authenticated.message.form.label.tags = Tags
+authenticated.message.form.label.confirm = Confirm
+
+authenticated.message.form.error.must-confirm = You have not confirmed the creation
+authenticated.message.form.error.spam = This has been considered spam by the system
+
+authenticated.message.form.button.create = Create
+authenticated.message.form.button.return = Return
+
+authenticated.message.list.label.moment = Moment
+authenticated.message.list.label.creator = Creator
+authenticated.message.list.label.title = Title

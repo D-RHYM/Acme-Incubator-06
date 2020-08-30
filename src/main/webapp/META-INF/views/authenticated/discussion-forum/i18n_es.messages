@@ -1,0 +1,16 @@
+authenticated.discussion-forum.form.label.investmentRound.title = Ronda de inversion:
+authenticated.discussion-forum.form.label.creator = Creado por
+
+authenticated.discussion-forum.form.error.existing = Hay un foro de discusión activo para esta ronda de inversiones en este momento
+authenticated.discussion-forum.form.button.list-messages = Listar mensajes
+authenticated.discussion-forum.form.button.add-message = Publicar nuevo mensaje
+authenticated.discussion-forum.form.button.return = Volver
+authenticated.discussion-forum.form.button.delete = Borrar foro (solo creador)
+authenticated.discussion-forum.form.button.create = Crear
+authenticated.discussion-forum.form.button.list-participants = Listar participantes
+authenticated.discussion-forum.form.button.add-participant = Añadir participante (solo creador)
+
+authenticated.discussion-forum.list.label.investmentRound.title = Ronda de Inversion
+authenticated.discussion-forum.list.label.investmentRound.description = Descripcion
+authenticated.discussion-forum.list.label.investmentRound.ticker = Ticker
+authenticated.discussion-forum.list.label.creator = Creador

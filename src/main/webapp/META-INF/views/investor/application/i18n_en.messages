@@ -1,0 +1,24 @@
+investor.application.form.label.ticker = Ticker:
+investor.application.form.label.moment = Moment:
+investor.application.form.label.statement = Statement:
+investor.application.form.label.moneyOffer = Money Offer:
+investor.application.form.label.status = Status:
+
+investor.application.form.label.status.rejected = Rejected
+investor.application.form.label.status.accepted = Accepted
+investor.application.form.label.status.pending = Pending
+
+investor.application.form.label.justification = Justification
+
+investor.application.list.label.ticker = Ticker
+investor.application.list.label.moneyOffer = Money Offer
+investor.application.list.label.status = Status
+
+investor.application.form.button.return = Return
+investor.application.form.button.create = Create
+
+investor.application.form.message.ticker = The ticker must follow the pattern XXX-YY-NNNNNN
+investor.application.form.error.tickerLetters = Incorrect ticker letters
+investor.application.form.error.tickerYearDigits = Incorrect ticker year digits
+investor.application.form.error.existingTicker = Existing ticker
+investor.application.form.error.moneyError = Incorrect money

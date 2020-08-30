@@ -1,0 +1,17 @@
+bookkeeper.investmentRound.form.label.ticker = Ticker:
+bookkeeper.investmentRound.form.label.moment = Fecha de creación:
+bookkeeper.investmentRound.form.label.round = Ronda:
+bookkeeper.investmentRound.form.label.title = Título:
+bookkeeper.investmentRound.form.label.description = Descripción:
+bookkeeper.investmentRound.form.label.amount = Cantidad:
+bookkeeper.investmentRound.form.label.link = Enlace:
+
+bookkeeper.investmentRound.activity.list = Lista de actividades
+
+bookkeeper.investmentRound.form.button.return = Volver
+bookkeeper.investmentRound.form.button.list-accounting-record = Listar registros de contabilidad
+bookkeeper.investmentRound.form.button.create-accounting-record = Crear registro de contabilidad (solo uno por contable)
+
+bookkeeper.investmentRound.list.label.ticker = Ticker
+bookkeeper.investmentRound.list.label.round = Ronda
+bookkeeper.investmentRound.list.label.title = Titulo

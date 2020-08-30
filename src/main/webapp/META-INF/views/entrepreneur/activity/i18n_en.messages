@@ -1,0 +1,18 @@
+entrepreneur.activity.form.label.title = Title:
+entrepreneur.activity.form.label.moment = Moment:
+entrepreneur.activity.form.label.deadline = Deadline:
+entrepreneur.activity.form.label.budget = Budget:
+
+entrepreneur.activity.form.button.create-activity = Create activity
+
+entrepreneur.activity.form.button.create = Create
+entrepreneur.activity.form.button.update = Update
+entrepreneur.activity.form.button.delete = Delete
+entrepreneur.activity.form.button.return = Return
+
+entrepreneur.activity.list.label.title = Title
+entrepreneur.activity.list.label.moment = Moment
+
+entrepreneur.activity.form.error.spamTitle = The title contains more spam words than expected
+entrepreneur.activity.error.must-future = The deadline must be in the future
+entrepreneur.activity.form.error.errorBudget = Incorrect money

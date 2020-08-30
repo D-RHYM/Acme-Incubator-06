@@ -1,0 +1,17 @@
+bookkeeper.accounting-record.list.label.title = Título
+bookkeeper.accounting-record.list.label.investmentRound.ticker = Ticker ronda inversion
+bookkeeper.accounting-record.list.label.creationMoment = Momento
+
+bookkeeper.accounting-record.form.label.title = Título
+bookkeeper.accounting-record.form.label.creationMoment = Momento de creación
+bookkeeper.accounting-record.form.label.body = Cuerpo
+bookkeeper.accounting-record.form.label.status = Estado
+bookkeeper.accounting-record.form.label.status.draft = Borrador
+bookkeeper.accounting-record.form.label.status.published = Publicado
+bookkeeper.accounting-record.form.error.existing = Ya tienes un registro de contabilidad para esta ronda de inversiones
+bookkeeper.accounting-record.form.button.show-investment-round = Mostrar ronda de inversiones
+bookkeeper.accounting-record.form.button.create = Crear
+bookkeeper.accounting-record.form.button.update = Actualizar
+bookkeeper.accounting-record.form.button.delete = Eliminar
+
+bookkeeper.accounting-record.form.button.return = Volver

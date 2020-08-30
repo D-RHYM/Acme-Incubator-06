@@ -1,0 +1,17 @@
+bookkeeper.accounting-record.list.label.status = Status
+bookkeeper.accounting-record.list.label.investmentRound.ticker = Investment round ticker
+bookkeeper.accounting-record.list.label.creationMoment = Creation moment
+
+bookkeeper.accounting-record.form.label.title = Title
+bookkeeper.accounting-record.form.label.creationMoment = Creation Moment
+bookkeeper.accounting-record.form.label.body = Body
+bookkeeper.accounting-record.form.label.status = Status
+bookkeeper.accounting-record.form.label.status.draft = Draft
+bookkeeper.accounting-record.form.label.status.published = Published
+bookkeeper.accounting-record.form.error.existing =  You've an accounting record for this investment round
+bookkeeper.accounting-record.form.button.show-investment-round = Show investment round
+bookkeeper.accounting-record.form.button.create = Create
+bookkeeper.accounting-record.form.button.update = Update
+bookkeeper.accounting-record.form.button.delete = Delete
+
+bookkeeper.accounting-record.form.button.return = Return

@@ -1,0 +1,18 @@
+authenticated.investmentRound.form.label.title = Title:
+authenticated.investmentRound.form.label.ticker = Ticker:
+authenticated.investmentRound.form.label.moment = Moment:
+authenticated.investmentRound.form.label.round = Round:
+authenticated.investmentRound.form.label.description = Description:
+authenticated.investmentRound.form.label.amount = Amount:
+authenticated.investmentRound.form.label.link = Link:
+authenticated.investmentRound.activity.list = List of activities
+authenticated.investmentRound.form.label.statement = Statement:
+authenticated.investmentRound.form.label.offer = Offer:
+authenticated.investmentRound.form.label.entrepreneur = Entrepreneur:
+
+authenticated.investmentRound.form.button.return = Return
+authenticated.investmentRound.form.button.list-accounting-record = List Accounting Records
+authenticated.investmentRound.list.label.title = Title
+authenticated.investmentRound.list.label.ticker = Ticker
+authenticated.investmentRound.list.label.amount = Amount
+authenticated.investmentRound.form.button.create-forum = Create discussion forum (only one active at same time)

@@ -1,0 +1,12 @@
+authenticated.notice.form.label.headerPicture = Imagen
+authenticated.notice.form.label.title = Titulo
+authenticated.notice.form.label.creationMoment = Momento
+authenticated.notice.form.label.deadline = Fecha límite
+authenticated.notice.form.label.body = Cuerpo
+authenticated.notice.form.label.links = Enlaces
+authenticated.notice.form.button.return = Atras
+
+authenticated.notice.list.label.creationMoment = Momento
+authenticated.notice.list.label.title = Titulo
+authenticated.notice.list.label.body = Cuerpo
+authenticated.notice.list.label.headerPicture = Imagen

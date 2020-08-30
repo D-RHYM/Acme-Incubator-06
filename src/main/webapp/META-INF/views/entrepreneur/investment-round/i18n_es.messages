@@ -1,0 +1,29 @@
+entrepreneur.investmentRound.form.label.ticker = Ticker:
+entrepreneur.investmentRound.form.label.moment = Fecha de creación:
+entrepreneur.investmentRound.form.label.round = Ronda:
+entrepreneur.investmentRound.form.label.title = Título:
+entrepreneur.investmentRound.form.label.description = Descripción:
+entrepreneur.investmentRound.form.label.amount = Cantidad:
+entrepreneur.investmentRound.form.label.link = Enlace:
+entrepreneur.investmentRound.form.label.finalMode = Modo final:
+
+entrepreneur.investmentRound.activity.list = Lista de actividades
+
+entrepreneur.investmentRound.form.button.create = Crear
+entrepreneur.investmentRound.form.button.update = Actualizar
+entrepreneur.investmentRound.form.button.delete = Borrar
+entrepreneur.investmentRound.form.button.return = Volver
+entrepreneur.investmentRound.form.button.list-accounting-record = Listar registros de contabilidad
+
+entrepreneur.investmentRound.list.label.ticker = Ticker
+entrepreneur.investmentRound.list.label.round = Ronda
+entrepreneur.investmentRound.list.label.title = Titulo
+
+entrepreneur.investmentRound.form.error.tickerLetters = Letras incorrectas en el ticker
+entrepreneur.investmentRound.form.error.tickerYearDigits = Digitos del año incorrectos en el ticker
+entrepreneur.investmentRound.form.error.existingTicker = Este ticker ya existe
+entrepreneur.investmentRound.form.message.ticker = El ticker debe seguir el patron XXX-YY-NNNNNN
+entrepreneur.investmentRound.form.error.spamTitle = El titulo contiene demasiadas palabras de spam
+entrepreneur.investmentRound.form.error.spamDescription = La descripcion contiene demasiadas palabras de spam
+entrepreneur.investmentRound.form.error.amountError = Dinero incorrecto
+entrepreneur.investmentRound.form.error.applications = Esta ronda de inversiones contiene aplicaciones

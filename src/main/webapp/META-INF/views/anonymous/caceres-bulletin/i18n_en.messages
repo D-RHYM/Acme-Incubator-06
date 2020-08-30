@@ -1,0 +1,21 @@
+# i18n_en.messages
+#
+# Copyright (c) 2019 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+anonymous.caceres-bulletin.form.label.author = Author:
+anonymous.caceres-bulletin.form.label.url = Url of a website you like:
+anonymous.caceres-bulletin.form.label.age = Age:
+anonymous.caceres-bulletin.form.label.accept = I accept that this shout will be public
+anonymous.caceres-bulletin.form.button.create = Publish!
+anonymous.caceres-bulletin.form.button.return = Return
+
+anonymous.caceres-bulletin.list.label.moment = Moment
+anonymous.caceres-bulletin.list.label.author = Author
+anonymous.caceres-bulletin.list.label.url = Url
+anonymous.caceres-bulletin.list.label.age = Edad

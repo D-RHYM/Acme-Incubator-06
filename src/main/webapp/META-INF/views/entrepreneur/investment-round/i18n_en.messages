@@ -1,0 +1,29 @@
+entrepreneur.investmentRound.form.label.ticker = Ticker:
+entrepreneur.investmentRound.form.label.moment = Moment:
+entrepreneur.investmentRound.form.label.round = Round:
+entrepreneur.investmentRound.form.label.title = Title:
+entrepreneur.investmentRound.form.label.description = Description:
+entrepreneur.investmentRound.form.label.amount = Amount:
+entrepreneur.investmentRound.form.label.link = Link:
+entrepreneur.investmentRound.form.label.finalMode = Final Mode:
+
+entrepreneur.investmentRound.activity.list = List of activities
+
+entrepreneur.investmentRound.form.button.create = Create
+entrepreneur.investmentRound.form.button.update = Update
+entrepreneur.investmentRound.form.button.delete = Delete
+entrepreneur.investmentRound.form.button.return = Return
+entrepreneur.investmentRound.form.button.list-accounting-record = List accounting records
+
+entrepreneur.investmentRound.list.label.ticker = Ticker
+entrepreneur.investmentRound.list.label.round = Round
+entrepreneur.investmentRound.list.label.title = Title
+
+entrepreneur.investmentRound.form.error.tickerLetters = Incorrect ticker letters
+entrepreneur.investmentRound.form.error.tickerYearDigits = Incorrect ticker year digits
+entrepreneur.investmentRound.form.error.existingTicker = Existing ticker
+entrepreneur.investmentRound.form.message.ticker = The ticker must follow the pattern XXX-YY-NNNNNN
+entrepreneur.investmentRound.form.error.spamTitle = The title contains more spam words than expected
+entrepreneur.investmentRound.form.error.spamDescription = The description contains more spam words than expected
+entrepreneur.investmentRound.form.error.amountError = Incorrect money
+entrepreneur.investmentRound.form.error.applications = This investment round has applications and cannot be deleted

@@ -1,0 +1,17 @@
+administrator.notice.form.label.headerPicture = Header Picture
+administrator.notice.form.label.title = Title:
+administrator.notice.form.label.creationMoment = Moment
+administrator.notice.form.label.deadline = Deadline
+administrator.notice.form.label.body = Body
+administrator.notice.form.label.links = Links
+administrator.notice.form.button.return = Return
+
+administrator.notice.list.label.creationMoment = Moment
+administrator.notice.list.label.title = Title
+administrator.notice.list.label.body = Body
+administrator.notice.list.label.headerPicture = Header Picture
+
+administrator.notice.error.deadline = Deadline must be in future time
+administrator.notice.error.accept = Must confirm the creation
+administrator.notice.form.button.create = Create
+administrator.notice.form.label.confirm = Confirm creation

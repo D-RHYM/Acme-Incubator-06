@@ -1,0 +1,4 @@
+administrator.dashboard.form.label.totals = Totals
+administrator.dashboard.form.label.totalNotices= Total number of notices
+administrator.dashboard.form.label.totalTechRecords = Total number of technologies
+administrator.dashboard.form.label.totalToolRecords = Total number of tools

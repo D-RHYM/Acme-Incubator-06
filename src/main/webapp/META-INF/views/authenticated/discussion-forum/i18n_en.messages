@@ -1,0 +1,17 @@
+authenticated.discussion-forum.form.label.investmentRound.title = Investment Round:
+authenticated.discussion-forum.form.label.creator = Created by
+
+authenticated.discussion-forum.form.error.existing = There's an active discussion forum for this investment round at the moment
+authenticated.discussion-forum.form.button.list-messages = List messages
+authenticated.discussion-forum.form.button.add-message = Post new message
+authenticated.discussion-forum.form.button.return = Return
+authenticated.discussion-forum.form.button.delete = Delete forum (only creator)
+authenticated.discussion-forum.form.button.create = Create
+authenticated.discussion-forum.form.button.list-participants = List participants
+authenticated.discussion-forum.form.button.add-participant = Add new participant (only creator)
+
+authenticated.discussion-forum.list.label.investmentRound.title = Investment Round
+authenticated.discussion-forum.list.label.investmentRound.description = Description
+authenticated.discussion-forum.list.label.investmentRound.ticker = Ticker
+authenticated.discussion-forum.list.label.creator = Creator
+

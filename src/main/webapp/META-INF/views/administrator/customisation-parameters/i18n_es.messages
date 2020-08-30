@@ -1,0 +1,10 @@
+administrator.customisation-parameters.list.label.spamWords = Palabras spam
+administrator.customisation-parameters.list.label.spamThreshold = Umbral
+administrator.customisation-parameters.list.label.activitySectors = Sectores de actividad
+
+administrator.customisation-parameters.form.label.spamWords = Palabras spam
+administrator.customisation-parameters.form.label.spamThreshold = Umbral
+administrator.customisation-parameters.form.label.activitySectors = Sectores de actividad
+
+administrator.customisation-parameters.form.button.update = Actualizar
+administrator.customisation-parameters.form.button.return = Volver
