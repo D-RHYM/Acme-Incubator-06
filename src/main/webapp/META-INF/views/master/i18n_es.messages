@@ -106,10 +106,7 @@ master.menu.administrator.list-bookkeeper-requests = Listar peticiones para cont
 
 master.menu.administrator.dashboard = Panel de control
 
-# master.menu.provider ########################################################
 
-master.menu.provider = Proveedor
-master.menu.provider.favourite-link = Enlace favorito
 
 # master.menu.consumer ##########################################################
 
