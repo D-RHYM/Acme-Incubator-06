@@ -111,11 +111,6 @@ master.menu.administrator.dashboard = Panel de control
 master.menu.provider = Proveedor
 master.menu.provider.favourite-link = Enlace favorito
 
-# master.menu.consumer ##########################################################
-
-master.menu.consumer = Consumidor
-master.menu.consumer.favourite-link = Enlace favorito
-
 # master.menu.investor ###########################################################
 
 master.menu.investor = Inversor

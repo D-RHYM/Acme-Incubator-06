@@ -72,17 +72,6 @@ bg=blue</panel_attributes>
     <additional_attributes>10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1043</x>
-      <y>203</y>
-      <w>98</w>
-      <h>140</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
-    <additional_attributes>10.0;180.0;120.0;10.0</additional_attributes>
-  </element>
-  <element>
     <id>UMLClass</id>
     <coordinates>
       <x>728</x>
@@ -165,21 +154,6 @@ bg=orange</panel_attributes>
     </coordinates>
     <panel_attributes>&lt;&lt;Role&gt;&gt;
 Provider
---
-+ company: String {NotBlank}
-+ sector: String {NotBlank}</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>UMLClass</id>
-    <coordinates>
-      <x>1106</x>
-      <y>147</y>
-      <w>147</w>
-      <h>63</h>
-    </coordinates>
-    <panel_attributes>&lt;&lt;Role&gt;&gt;
-Consumer
 --
 + company: String {NotBlank}
 + sector: String {NotBlank}</panel_attributes>

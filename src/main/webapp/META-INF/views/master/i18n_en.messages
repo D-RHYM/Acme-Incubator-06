@@ -110,11 +110,6 @@ master.menu.administrator.dashboard = Dashboard
 master.menu.provider = Provider
 master.menu.provider.favourite-link = Favourite link
 
-# master.menu.consumer ##########################################################
-
-master.menu.consumer = Consumer
-master.menu.consumer.favourite-link = Favourite link
-
 # master.menu.investor ###########################################################
 
 master.menu.investor = Investor
