@@ -106,16 +106,6 @@ master.menu.administrator.list-bookkeeper-requests = Listar peticiones para cont
 
 master.menu.administrator.dashboard = Panel de control
 
-# master.menu.provider ########################################################
-
-master.menu.provider = Proveedor
-master.menu.provider.favourite-link = Enlace favorito
-
-# master.menu.consumer ##########################################################
-
-master.menu.consumer = Consumidor
-master.menu.consumer.favourite-link = Enlace favorito
-
 # master.menu.investor ###########################################################
 
 master.menu.investor = Inversor
@@ -140,10 +130,6 @@ master.menu.bookkeeper.list-not-investment-round = Listar rondas de inversiones 
 
 master.menu.user-account = Cuenta
 master.menu.user-account.general-data = Datos generales
-master.menu.user-account.provider = Datos de proveedor
-master.menu.user-account.become-provider = Hazte proveedor
-master.menu.user-account.consumer = Datos de consumidor
-master.menu.user-account.become-consumer = Hazte consumidor
 master.menu.user-account.entrepreneur = Datos de empresario
 master.menu.user-account.become-entrepreneur = Hazte empresario
 master.menu.user-account.investor = Datos de inversor
