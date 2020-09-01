@@ -105,10 +105,6 @@ master.menu.administrator.list-bookkeeper-requests = List bookkeepers requests
 
 master.menu.administrator.dashboard = Dashboard
 
-# master.menu.provider ########################################################
-
-master.menu.provider = Provider
-master.menu.provider.favourite-link = Favourite link
 
 # master.menu.consumer ##########################################################
 
