@@ -54,8 +54,24 @@
 	<bean id="creditCard01" class="acme.entities.creditCard.CreditCard">
 		<property name="holderName" value="Fernando" />
 		<property name="creditCardNumber" value="5224746025394443" />
-		<property name="brand" value="Visa" />
+		<property name="brand" value="Servired" />
 		<property name="creditCardCvv" value="957" />
+		<property name="expirationDate" value="2021/09/14 15:30" />
+	</bean>
+	
+		<bean id="creditCard02" class="acme.entities.creditCard.CreditCard">
+		<property name="holderName" value="Maria" />
+		<property name="creditCardNumber" value="5224746025394443" />
+		<property name="brand" value="Servired" />
+		<property name="creditCardCvv" value="111" />
+		<property name="expirationDate" value="2021/09/14 15:30" />
+	</bean>
+	
+		<bean id="creditCard03" class="acme.entities.creditCard.CreditCard">
+		<property name="holderName" value="Alexandra" />
+		<property name="creditCardNumber" value="5224746025394443" />
+		<property name="brand" value="Ceca" />
+		<property name="creditCardCvv" value="989" />
 		<property name="expirationDate" value="2021/09/14 15:30" />
 	</bean>
 	
@@ -71,12 +87,18 @@
 	
 		<bean id="banner02" class="acme.entities.banner.Banner">
 		<property name="picture"
-			value="https://i.imgur.com/2eVF1HG.png" />
+			value="https://caritas-web.s3.amazonaws.com/main-files/uploads/2018/12/logo_2x_caritas.png" />
 		<property name="slogan" value="EjemploCBanner2" />
 		<property name="targetURL" value="http://example2.com" />
-		<property name="creditCard">
-			<null />
-		</property>
+		<property name="creditCard" ref="creditCard02" />
+	</bean>
+	
+	<bean id="banner03" class="acme.entities.banner.Banner">
+		<property name="picture"
+			value="https://pbs.twimg.com/profile_images/855142032066695173/GGdhnJvg_400x400.jpg" />
+		<property name="slogan" value="EjemploCBanner3" />
+		<property name="targetURL" value="http://example3.com" />
+		<property name="creditCard" ref="creditCard03" />
 	</bean>
 
 	<!-- CustomisationParameters -->

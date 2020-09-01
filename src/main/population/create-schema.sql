@@ -117,15 +117,6 @@
         primary key (`id`)
     ) engine=InnoDB;
 
-    create table `consumer` (
-       `id` integer not null,
-        `version` integer not null,
-        `user_account_id` integer,
-        `company` varchar(255),
-        `sector` varchar(255),
-        primary key (`id`)
-    ) engine=InnoDB;
-
     create table `credit_card` (
        `id` integer not null,
         `version` integer not null,
@@ -263,15 +254,6 @@
         primary key (`id`)
     ) engine=InnoDB;
 
-    create table `provider` (
-       `id` integer not null,
-        `version` integer not null,
-        `user_account_id` integer,
-        `company` varchar(255),
-        `sector` varchar(255),
-        primary key (`id`)
-    ) engine=InnoDB;
-
     create table `tech_record` (
        `id` integer not null,
         `version` integer not null,
@@ -317,8 +299,8 @@
     ) engine=InnoDB;
 
     insert into `hibernate_sequence` values ( 1 );
-create index IDX2q2747fhp099wkn3j2yt05fhs on `application` (`status`);
 create index IDXhwforwdu8n1h9l7gxea3vxdvj on `accounting_record` (`status`);
+create index IDX2q2747fhp099wkn3j2yt05fhs on `application` (`status`);
 
     alter table `user_account` 
        add constraint UK_castjbvpeeus0r8lbpehiu0e4 unique (`username`);
@@ -383,11 +365,6 @@ create index IDXhwforwdu8n1h9l7gxea3vxdvj on `accounting_record` (`status`);
        foreign key (`user_account_id`) 
        references `user_account` (`id`);
 
-    alter table `consumer` 
-       add constraint FK_6cyha9f1wpj0dpbxrrjddrqed 
-       foreign key (`user_account_id`) 
-       references `user_account` (`id`);
-
     alter table `discussion_forum` 
        add constraint `FKbfag2xg62p5csp5sfcf99thfd` 
        foreign key (`creator_id`) 
@@ -432,8 +409,3 @@ create index IDXhwforwdu8n1h9l7gxea3vxdvj on `accounting_record` (`status`);
        add constraint `FK2rgdydjuquk8s9d5tqijli0hy` 
        foreign key (`discussion_forum_id`) 
        references `discussion_forum` (`id`);
-
-    alter table `provider` 
-       add constraint FK_b1gwnjqm6ggy9yuiqm0o4rlmd 
-       foreign key (`user_account_id`) 
-       references `user_account` (`id`);
