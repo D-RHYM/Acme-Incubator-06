@@ -47,10 +47,6 @@
        drop 
        foreign key `FKrkmyfaktfktoo2v26a9qu4ebb`;
 
-    alter table `consumer` 
-       drop 
-       foreign key FK_6cyha9f1wpj0dpbxrrjddrqed;
-
     alter table `discussion_forum` 
        drop 
        foreign key `FKbfag2xg62p5csp5sfcf99thfd`;
@@ -87,10 +83,6 @@
        drop 
        foreign key `FK2rgdydjuquk8s9d5tqijli0hy`;
 
-    alter table `provider` 
-       drop 
-       foreign key FK_b1gwnjqm6ggy9yuiqm0o4rlmd;
-
     drop table if exists `accounting_record`;
 
     drop table if exists `activity`;
@@ -112,8 +104,6 @@
     drop table if exists `caceres_bulletin`;
 
     drop table if exists `challenge`;
-
-    drop table if exists `consumer`;
 
     drop table if exists `credit_card`;
 
@@ -138,8 +128,6 @@
     drop table if exists `overture`;
 
     drop table if exists `participant`;
-
-    drop table if exists `provider`;
 
     drop table if exists `tech_record`;
 
